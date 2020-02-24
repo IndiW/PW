@@ -1,0 +1,33 @@
+
+
+#Booktitle{
+    top: 2rem;
+    text-align: center;
+    font-family:  'Kanit', 'Serif';
+    color: #222222;
+    font-weight: 600;
+    line-height: 70%;
+    font-size: 9vw;
+}
+
+#bookcover{
+    background-color: #f9f9f9;
+    padding: 18% 18%;
+    
+}
+
+#cardbook{
+    width: 100%;
+}
+
+#ethics{
+    width: 100%;
+}
+
+#book_img{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.border-light{
+    border-width: 20px !important;
+}
