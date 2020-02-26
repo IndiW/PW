@@ -236,7 +236,23 @@ strong{
   color: #222222;
   font-weight: 600;
   line-height: 70%;
-  font-size: 10vw;
+  font-size: 8vw;
+  padding-top: 1rem;
+}
+
+#project_desc{
+  font-family:  'Kanit', 'Serif';
+  color:white;
+  font-weight: 500;
+  font-size: 1em;
+}
+
+#projects_subtitle{
+  font-family:  'Kanit', 'Serif';
+  columns: #222222;
+  font-weight: 300;
+  font-size: 2vw;
+  padding-bottom: 2rem;
 }
 
 @media only screen and (min-width: 600px) {
@@ -245,4 +261,3 @@ strong{
     font-size: 1.2rem;
   }
 }
-
