@@ -251,9 +251,27 @@ strong{
   font-family:  'Kanit', 'Serif';
   columns: #222222;
   font-weight: 300;
-  font-size: 2vw;
+  font-size: 1.5vw;
   padding-bottom: 2rem;
 }
+
+.bg4 {
+  /* The image used */
+  background-image: url("images/contact.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
 
 @media only screen and (min-width: 600px) {
   #about_info{
@@ -261,3 +279,4 @@ strong{
     font-size: 1.2rem;
   }
 }
+
