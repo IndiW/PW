@@ -272,11 +272,22 @@ strong{
   
 }
 
+#sub_contact{
+  font-family:  'Kanit', 'Serif';
+  color: white;
+  font-weight: 500;
+  line-height: 70%;
+  font-size: 1rem;
+}
+
 
 @media only screen and (min-width: 600px) {
   #about_info{
     color: white;
     font-size: 1.2rem;
+  }
+  #sub_contact{
+    font-size: 2rem;
   }
 }
 
